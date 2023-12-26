@@ -1,0 +1,1 @@
+checkpoint_best_legacy_500.pt filter=lfs diff=lfs merge=lfs -text
